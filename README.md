@@ -10,9 +10,13 @@ There should be 1 directory called downloaded_patents that contains:
 
 This directories/files structure was the most adequate for the system used but can be changed as needed.
 To run the scripts, the command should be:
+
 `perl patents_with_bioactivities.pl <max_index>`
+
 `perl targets_title_abstract.pl <max_index>`
+
 `perl targets_descriptions_claims.pl <max_index>`
+
 where max_index is the number of directories (the ones called downloaded_patents_0001, downloaded_patents_0002 etc.). In this case there were 650 directories so the command should be:
 perl patents_with_bioactivities.pl 650
 
