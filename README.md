@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7669601.svg)](https://doi.org/10.5281/zenodo.7669601)
+
 # Scripts
 
 The following scripts were developed as part of the work described in “Illuminating the druggable genome through patent bioactivity data”.
